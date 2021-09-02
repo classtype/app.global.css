@@ -1,0 +1,32 @@
+{
+    "name": "app.global.css",
+    "version": "1.0.0",
+    "description": "TODO",
+    "contributors": [
+        {
+            "name": "Sergei",
+            "email": "classtype@mail.ru"
+        }
+    ],
+    "main": "src/app.global.css",
+    "homepage": "http://github.com/classtype/app.global.css",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/classtype/app.global.css.git"
+    },
+    "bugs": {
+        "url": "http://github.com/classtype/app.global.css/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/classtype/app.global.css/blob/master/LICENSE"
+        }
+    ],
+    "keywords": [
+        "client",
+        "global",
+        "css",
+        "html"
+    ]
+}
